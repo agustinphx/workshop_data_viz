@@ -16,8 +16,13 @@
 ### Campos: [owid-covid-codebook.xlsx](https://github.com/agustinrp/2_Workshop-BI/files/6565459/owid-covid-codebook.xlsx)
 ‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 3- Identificación de variables <img src="https://img.icons8.com/ios/28/000000/variable.png"/>
+### - Muertes
+### - Población
+### - Contagios
+### - País
 ### 
-
+###
+###
 ‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 4- Estrategias de análisis
 
