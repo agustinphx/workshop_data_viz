@@ -18,3 +18,4 @@
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 5- Estructura de información
 
 
+## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 6- Análisis exploratorio
