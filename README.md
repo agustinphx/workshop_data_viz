@@ -15,3 +15,6 @@
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 4- Estrategias de análisis
 
 
+## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 5- Estructura de información
+
+
