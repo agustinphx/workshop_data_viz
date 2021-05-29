@@ -4,3 +4,8 @@
 
 ## Data Analytics Workflow <img src="https://img.icons8.com/clouds/68/000000/workflow.png"/>
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 1- Definición de preguntas
+
+
+## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 2- Exploración de fuentes
+
+
