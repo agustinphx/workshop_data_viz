@@ -4,7 +4,10 @@
 
 ## Data Analytics Workflow <img src="https://img.icons8.com/clouds/68/000000/workflow.png"/>
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 1- Definición de preguntas
-
+## Esquema de posibles preguntas para el análisis de este caso:
+## ¿En general dónde impacto más la pandemia?
+## ¿A qué países les fue mejor y peor?
+## ¿Qué impacto tuvieron las políticas de confinamiento social?
 
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 2- Exploración de fuentes
 
