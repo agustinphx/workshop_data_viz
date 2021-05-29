@@ -9,17 +9,24 @@
 ### ¿Qué impacto tuvieron las políticas de confinamiento social?
 ### ¿Hay diferencias entre países ricos y pobres?
 ‎      ‏‏‎
-
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 2- Exploración de fuentes
+### Una de las partes más importantes de cualquier  procesos de Business Analytics es la exploración preliminar de las fuentes de datos.
+### En este caso las fuentes utilizadas son: 
+### Datos: [owid-covid-data.xlsx](https://github.com/agustinrp/2_Workshop-BI/files/6565460/owid-covid-data.xlsx)
+### Campos: [owid-covid-codebook.xlsx](https://github.com/agustinrp/2_Workshop-BI/files/6565459/owid-covid-codebook.xlsx)
 
 
+‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 3- Identificación de variables
 
 
+‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 4- Estrategias de análisis
 
 
+‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 5- Estructura de información
 
 
+‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 6- Análisis exploratorio
