@@ -2,12 +2,14 @@
 ##  Introducción al caso: 
 ### La crisis del COVID19 representa uno de los fenómenos más importantes de gestión orientada a datos de la historia ya que demuestra el uso intensivo del Business Analytics como marco de trabajo para la gestión de metas en un mundo globalizado y digital.
 
-## Data Analytics Workflow <img src="https://img.icons8.com/clouds/68/000000/workflow.png"/>
-## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 1- Definición de preguntas
-## Esquema de posibles preguntas para el análisis de este caso:
-## ¿En general dónde impacto más la pandemia?
-## ¿A qué países les fue mejor y peor?
-## ¿Qué impacto tuvieron las políticas de confinamiento social?
+## Data Analytics Workflow <img src="https://img.icons8.com/clouds/78/000000/workflow.png"/>
+## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 1- Definición de preguntas <img src="https://img.icons8.com/ios/30/000000/question-mark--v2.png"/>
+### Posibles preguntas para el análisis:
+### ¿En general dónde impacto más la pandemia?
+### ¿A qué países les fue mejor y peor?
+### ¿Qué impacto tuvieron las políticas de confinamiento social?
+### ¿Hay diferencias entre países ricos y pobres?
+
 
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 2- Exploración de fuentes
 
