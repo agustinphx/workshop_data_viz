@@ -9,3 +9,6 @@
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 2- Exploración de fuentes
 
 
+## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 3- Identificación de variables
+
+
