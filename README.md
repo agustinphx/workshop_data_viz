@@ -11,7 +11,7 @@
 ‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 2- Exploración de fuentes
 ### Una de las partes más importantes de cualquier  procesos de Business Analytics es la exploración preliminar de las fuentes de datos.
-### En este caso las fuentes utilizadas son: 
+### Fuente principal: https://ourworldindata.org/coronavirus-source-data
 ### Datos: [owid-covid-data.xlsx](https://github.com/agustinrp/2_Workshop-BI/files/6565460/owid-covid-data.xlsx)
 ### Campos: [owid-covid-codebook.xlsx](https://github.com/agustinrp/2_Workshop-BI/files/6565459/owid-covid-codebook.xlsx)
 
