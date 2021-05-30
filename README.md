@@ -48,7 +48,7 @@
 ### - Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
 ‎      ‏‏‎
 ## Trabajo presentado <img src="https://img.icons8.com/color/50/000000/business-report.png"/>
-![Best](https://user-images.githubusercontent.com/58674979/120091466-c4fcab80-c0e1-11eb-9d3b-c232697ddca6.png)
+
 ‎      ‏‏‎
 ![Worst](https://user-images.githubusercontent.com/58674979/120091602-0772b800-c0e3-11eb-86b3-99e862bfb337.png)
 ‎      ‏‏‎
