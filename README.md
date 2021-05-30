@@ -40,3 +40,5 @@
 
 ‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 6- Análisis exploratorio <img src="https://img.icons8.com/color/50/000000/export-collections.png"/>
+### Cuando ya tenemos la información estructurada de la manera que consideramos óptima, comenzamos con el análisis exploratorio.
+### Este análisis contiene: 
