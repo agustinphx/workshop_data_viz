@@ -27,7 +27,7 @@
 ‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 4- Estrategias de análisis
 ### Para responder a las preguntas definidas, vamos a usar las variables identificadas.
-### Por ejemplo, para responder a la pregunta: ¡En general dónde impacto más la pandemia? Vamos a utilizar una métrica absoluta (Muertes).
+### Por ejemplo, para responder a la pregunta: ¿En general dónde impacto más la pandemia? Vamos a utilizar una métrica absoluta (Muertes).
 ### Otro ejemplo, para responder a la pregunta: ¿A qué países les fue mejor y peor? Necesitamos una métrica de proporción (Mortalidad) y una medida de referencia (Media) para poder tener un valor que nos permita agrupar los países, por un lado los mejores y por el otro los peores.
 ‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 5- Estructura de información
