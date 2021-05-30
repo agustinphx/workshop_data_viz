@@ -29,6 +29,7 @@
 ### Para responder a las preguntas definidas, vamos a usar las variables identificadas.
 ### En el caso de la primer pregunta: ¿En general dónde impacto más la pandemia? 
 ### Vamos a utilizar una métrica absoluta (Muertes).
+‎      ‏‏‎
 ### Para la segunda pregunta: ¿A qué países les fue mejor y peor? 
 ### Necesitamos una métrica de proporción (Mortalidad) y una medida de referencia (Media) para poder tener un valor que nos permita agrupar los países, por un lado los mejores y por el otro los peores.
 ‎      ‏‏‎
