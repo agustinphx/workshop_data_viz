@@ -41,4 +41,8 @@
 ‎      ‏‏‎
 ## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 6- Análisis exploratorio <img src="https://img.icons8.com/color/50/000000/export-collections.png"/>
 ### Cuando ya tenemos la información estructurada de la manera que consideramos óptima, comenzamos con el análisis exploratorio.
-### Este análisis contiene: 
+### Este análisis consiste en la verificación de la información, donde nos haremos preguntas para verificar y explorar la granularidad de la misma: 
+### - Análisis de distribución: deberían estar todos los elementos en nuestro análisis?
+### - Consistencia:hay variables poco consistentes como nulos,faltantes,no-confiables?
+### Máximos y Mínimos: que hay en los extremos de nuestra población?
+### Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
