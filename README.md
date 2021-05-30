@@ -47,7 +47,7 @@
 ### - Máximos y Mínimos: que hay en los extremos de nuestra población?
 ### - Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
 ‎      ‏‏‎
-## Trabajo presentado
+## Trabajo presentado <img src="https://img.icons8.com/color/50/000000/business-report.png"/>
 ### ¿En qué continente impacto más la pandemia?
 ‎      ‏‏‎
 ### ¿A qué países les fue mejor y peor?
