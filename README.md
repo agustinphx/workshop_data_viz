@@ -52,6 +52,7 @@
 
 ‎      ‏‏‎
 ### ¿A qué países les fue mejor y peor?
+![Best](https://user-images.githubusercontent.com/58674979/120091466-c4fcab80-c0e1-11eb-9d3b-c232697ddca6.png)
 
 ‎      ‏‏‎
 ### ¿Qué impacto tuvieron las políticas de confinamiento social?
