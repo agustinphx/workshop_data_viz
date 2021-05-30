@@ -39,4 +39,4 @@
 ### Para llevar a cabo esta actividad, es necesario realizar un proceso ETL para dejar los datos preparados su posterior análisis. Cuando se transforman los datos en el proceso ETL, estos se convierten en información ya que no dejan de ser los datos ''en bruto'' para convertirse información valiosa.
 
 ‎      ‏‏‎
-## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 6- Análisis exploratorio <img src="https://img.icons8.com/color/50/000000/export-collections.png"/> <img src="https://img.icons8.com/fluent/50/000000/analytics.png"/>
+## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 6- Análisis exploratorio <img src="https://img.icons8.com/color/50/000000/export-collections.png"/>
