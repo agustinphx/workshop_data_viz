@@ -47,4 +47,4 @@
 ### - Máximos y Mínimos: que hay en los extremos de nuestra población?
 ### - Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
 ‎      ‏‏‎
-## Software utilizado: Power BI 
+## Software utilizado: Power BI https://camo.githubusercontent.com/f777e8c3b0bfa4a435530079397c4805a63be00527297e5e21ff81a23e5231d8/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f33362f3030303030302f706f7765722d62692e706e67
