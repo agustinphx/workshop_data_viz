@@ -48,17 +48,7 @@
 ### - Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
 ‎      ‏‏‎
 ## Trabajo presentado <img src="https://img.icons8.com/color/50/000000/business-report.png"/>
-### ¿En qué continente impacto más la pandemia?
-‎      ‏‏‎
-### ¿A qué países les fue mejor y peor?
 ![Best](https://user-images.githubusercontent.com/58674979/120091466-c4fcab80-c0e1-11eb-9d3b-c232697ddca6.png)
-
-‎      ‏‏‎
-### ¿Qué impacto tuvieron las políticas de confinamiento social?
-
-‎      ‏‏‎
-### ¿Qué relación hay entre la mortalidad y la expectativa de vida ?
-
 ‎      ‏‏‎
 ## Herramienta de visualización: Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
 https://powerbi.microsoft.com/es-es/desktop/
