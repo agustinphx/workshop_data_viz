@@ -33,7 +33,7 @@
 ### Para la segunda pregunta: ¿A qué países les fue mejor y peor? 
 ### Necesitamos una métrica de proporción (Mortalidad) y una medida de referencia (Media) para poder tener un valor que nos permita agrupar los países, por un lado los mejores y por el otro los peores.
 ‎      ‏‏‎
-## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 5- Estructura de información
+## <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> 5- Estructura de información <img src="https://img.icons8.com/material-two-tone/36/000000/data-configuration--v1.png"/>
 ### Ya sabemos cuáles son nuestras fuentes de datos, ahora debemos ver cómo están estructurados los datos para ver y entender cómo vamos a crear las métricas necesarias. 
 
 ### Para llevar a cabo esta actividad, es necesario realizar un proceso ETL para dejar los datos preparados su posterior análisis. Cuando se transforman los datos en el proceso ETL, estos se convierten en información ya que no dejan de ser los datos ''en bruto'' para convertirse información valiosa.
