@@ -47,5 +47,5 @@
 ### - Máximos y Mínimos: que hay en los extremos de nuestra población?
 ### - Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
 ‎      ‏‏‎
-#### Herramienta de visualización: Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
+## Herramienta de visualización: Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
 https://powerbi.microsoft.com/es-es/desktop/
