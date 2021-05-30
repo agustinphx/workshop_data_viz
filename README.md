@@ -48,7 +48,7 @@
 ### - Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
 ‎      ‏‏‎
 ## Trabajo presentado
-## Respondiendo las preguntas iniciales, incluyendo las variables identificadas y utilizando las métricas mejor consideradas
+### Respondiendo las preguntas iniciales, incluyendo las variables identificadas y utilizando las métricas mejor consideradas
 
 ## Herramienta de visualización: Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
 https://powerbi.microsoft.com/es-es/desktop/
