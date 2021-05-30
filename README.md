@@ -46,3 +46,5 @@
 ### - Consistencia:hay variables poco consistentes como nulos,faltantes,no-confiables?
 ### - Máximos y Mínimos: que hay en los extremos de nuestra población?
 ### - Outliers: se ven elementos demasiado exagerados respecto al resto? Por qué?
+‎      ‏‏‎
+## Software utilizado: Power BI 
